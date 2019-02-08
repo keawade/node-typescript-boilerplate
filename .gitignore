@@ -1,0 +1,10 @@
+# Node files
+node_modules/
+
+# Build files
+dist/
+
+# Test files
+coverage
+test-reports/
+test-results/
